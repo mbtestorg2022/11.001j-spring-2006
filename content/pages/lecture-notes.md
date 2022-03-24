@@ -80,7 +80,7 @@ Meet at the Government Center T-Stop (outside in front of the City Hall) at 8:00
 5
 {{< tdclose >}}
 {{< tdopen >}}
-The Design of American Cities (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.5MB]({{< baseurl >}}/resources/11_001_lecture_5))  
+The Design of American Cities ([PDF - 3.5MB]({{< baseurl >}}/resources/11_001_lecture_5))  
   
 Questions of the day: What can you tell about a city's origins from its founders? What is the difference between agrarian settlements and industrial cities? What happened to cities as America industrialized?
 {{< tdclose >}}

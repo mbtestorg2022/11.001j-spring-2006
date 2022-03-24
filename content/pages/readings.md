@@ -654,9 +654,9 @@ Davis, Mike. "Fortress Los Angeles: The Militarization of Urban Space." _Variati
 
 Zinganel, Michael. "Crime Does Pay! How Security Technology, Architecture and Town Planning Are Powered by Crime." _Archis_ (March 2002): 44-50.
 
-Please skim: National Capital Planning Commission, The National Capital Urban Design and Security Plan. October 2002. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.ncpc.gov/docs/National_Capital_Urban_Design_and_Security_Plan.pdf))
+Please skim: National Capital Planning Commission, The National Capital Urban Design and Security Plan. October 2002. ([PDF](https://www.ncpc.gov/docs/National_Capital_Urban_Design_and_Security_Plan.pdf))
 
-Read page 4 Key Findings and Recommendations in "Designing for Security in the Nation's Capital." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.7 MB](https://www.ncpc.gov/docs/Designing_for_Security_in_the_Nations_Capital.pdf))
+Read page 4 Key Findings and Recommendations in "Designing for Security in the Nation's Capital." ([PDF - 2.7 MB](https://www.ncpc.gov/docs/Designing_for_Security_in_the_Nations_Capital.pdf))
 
 
 {{< tdclose >}}
