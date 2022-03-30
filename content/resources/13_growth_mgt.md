@@ -6,6 +6,7 @@ description: This file contains information about sprawl, Massachusetts growing 
   growth and opponents.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-001j-introduction-to-urban-design-and-development-spring-2006/856538cbe0530be12bf442fbcb90588d_13_growth_mgt.pdf
 file_type: application/pdf
+parent_uid: d82c8a8a-46ef-1786-3d92-97ba1cc18af4
 resourcetype: Document
 title: 13_growth_mgt.pdf
 uid: 856538cb-e053-0be1-2bf4-42fbcb90588d
